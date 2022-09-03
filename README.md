@@ -20,7 +20,16 @@
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
- 
+
+
+<span id="requisitos">
+
+### :clipboard: Requisitos:
+ <p>
+  
+ </p>
+
+<a href="#inicio">[Voltar ao início]</a>
  <span id="status">
 
  ### :bookmark_tabs: Status do projeto: Em Desenvolvimento ✔️	

@@ -26,6 +26,16 @@
 
 ### :clipboard: Requisitos:
  <p>
+
+Requisitos |  Status 
+-----------|----------
+CARACTERIZAÇÃO DA CADEIA PRODUTIVA POR MEIO DA COLETA, TRATAMENTO E APRESENTAÇÃO DE DADOS EM DASHBOARD INTERATIVO. | 
+ DASHBOARD (PAINEL DE VISUALIZAÇÃO) INTUITIVO E NÃO TER POLUIÇÕES DE INFORMAÇÕES, ISSO DEVERÁ SER UMA PREOCUPAÇÃO CONSTANTE DOS DESENVOLVEDORES. SUGESTÕES DE FILTROS SERÃO BEM-VINDAS E BEM AVALIADAS.|
+ BANCO DE DADOS RELACIONAL.|
+  O SISTEMA INTERATIVO DEVE SER CONSTRUÍDO NA POWER PLATFORM.|
+  DOCUMENTAÇÃO DO PROJETO DE FORMA CLARA E DE FÁCIL ACESSO.|
+  
+
   
  </p>
 
@@ -42,17 +52,15 @@
  
  <a href="#inicio">[Voltar ao início]</a>
  
- <span id="backlog"> 
-
-### :bar_chart: Backlog
  
-#### Backlog do Produto
-
-<a href="#inicio">[Voltar ao início]</a> 
-
 <span id="estrutura-pastas">
  
-### :clipboard: Estruturação das pastas
+### :bar_chart: Estrutura digital do projeto
+ 
+- **Camada de dados:** responsável pelo armazenamento dos dados coletados, essa camada aloca todas as informações em tabelas relacionais na nuvem provisionada pela Microsoft;
+- **Camada de aplicação:** nessa camada se encontram todas as aplicações que interagem com o usuário e
+- **Camada de usuário:** responsável pela interação do usuário com o sistema, por meio de uma interface gráfica que permita editar e consultar as informações contidas na base de dados.
+
 
 <a href="#inicio">[Voltar ao início]</a>
  

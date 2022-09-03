@@ -6,8 +6,7 @@
      <a href="#requisitos">Requisitos</a> •
      <a href="#status">Status</a> •
      <a href="#techtools">Ferramentas e Tecnologias</a> •
-     <a href="#backlog">Backlog</a> •
-     <a href="#estrutura-pastas">Estruturação das Pastas</a> • 
+     <a href="#estrutura-pastas">Estrutura digital do projeto </a> • 
      <a href="#entregas">Entregas</a> • 
      <a href="#equipe">Equipe</a> 
 </p>

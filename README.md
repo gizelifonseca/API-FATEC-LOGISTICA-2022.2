@@ -50,6 +50,13 @@
 <span id="entregas">
 
 ### :dart: Entregas
+ 
+ Sprint ID | Data | Tag | Status
+----------|------|-----|-------|--------
+#1 | 29.08.22 - 18.09.22 | <a href="#">Aqui</a> | :heavy_check_mark:
+#2 | 19.09.22 - 09.10.22 | <a href="#">Aqui</a> | :heavy_check_mark:
+#3 | 17.10.22 - 06.11.22 | <a href="#">Aqui</a> |  :heavy_check_mark:
+#4 | 07.11.22 - 27.11.22 | <a href="#">Aqui</a> |  :heavy_check_mark:
 
 <a href="#inicio">[Voltar ao início]</a>
 

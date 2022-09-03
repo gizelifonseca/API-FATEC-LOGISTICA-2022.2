@@ -1,6 +1,6 @@
 <br id="inicio">
 
-<h1 align="center">API do 2° Semestre de 2022 do Curso de Logística da FATEC </h1>
+<h1 align="center">API do 2° Semestre de 2022 do Curso de Logística da FATEC São José dos Campos - Prof. Jessen Vidal </h1>
  <p align="center">
      <a href="#sobre">Sobre</a> • 
      <a href="#requisitos">Requisitos</a> •
@@ -48,7 +48,11 @@ CARACTERIZAÇÃO DA CADEIA PRODUTIVA POR MEIO DA COLETA, TRATAMENTO E APRESENTA�
  <span id="techtools">
  
  ### :hammer_and_wrench: Ferramentas e Tecnologias
- 
+ - GitHub
+ - Conceito de Posicionamento Lógico: R.H. BALLOU
+ - 5W2H 
+ - Microsoft Power Platform
+  
  <a href="#inicio">[Voltar ao início]</a>
  
  

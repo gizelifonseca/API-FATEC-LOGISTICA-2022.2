@@ -3,6 +3,7 @@
 <h1 align="center">API do 2° Semestre de 2022 do Curso de Logística da FATEC </h1>
  <p align="center">
      <a href="#sobre">Sobre</a> • 
+     <a href="#requisitos">Requisitos</a> •
      <a href="#status">Status</a> •
      <a href="#techtools">Ferramentas e Tecnologias</a> •
      <a href="#backlog">Backlog</a> •
@@ -14,6 +15,9 @@
 <span id="sobre">
 
 ### :mag_right: Sobre o projeto:
+ <p>
+  Avaliação de cadeias produtivas de Petróleo, Óleo e Gás de municípios da RMVALE por meio de coleta, tratamento e análise de dados.
+ </p>
 
 <a href="#inicio">[Voltar ao início]</a>
  

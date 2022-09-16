@@ -1,6 +1,6 @@
 <br id="inicio">
 
-<h1 align="center">API do 3° Semestre de 2022 do Curso de Logística da FATEC São José dos Campos - Prof. Jessen Vidal </h1>
+<h1 align="center">API do 1° Semestre de 2022 do Curso de Logística da FATEC São José dos Campos - Prof. Jessen Vidal </h1>
  <p align="center">
      <a href="#sobre">Sobre</a> • 
      <a href="#requisitos">Requisitos</a> •
